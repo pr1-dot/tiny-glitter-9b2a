@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "tiny-glitter-9b2a",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "36806f59-1293-484a-9e3b-a7d23c8e4d9f",
+      "database_name": "round-math-9ab6-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
